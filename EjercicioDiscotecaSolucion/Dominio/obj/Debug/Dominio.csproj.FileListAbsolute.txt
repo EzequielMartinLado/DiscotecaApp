@@ -1,0 +1,6 @@
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Dominio\bin\Debug\Dominio.dll
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Dominio\obj\Debug\Dominio.dll
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Dominio\obj\Debug\Dominio.pdb

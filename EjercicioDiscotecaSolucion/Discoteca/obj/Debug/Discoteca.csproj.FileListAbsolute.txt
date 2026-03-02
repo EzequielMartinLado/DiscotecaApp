@@ -1,0 +1,16 @@
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\bin\Debug\Discoteca.exe.config
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\bin\Debug\Discoteca.exe
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\bin\Debug\Discoteca.pdb
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\obj\Debug\Discoteca.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\obj\Debug\Discoteca.DiscotecaForm.resources
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\obj\Debug\Discoteca.Properties.Resources.resources
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\obj\Debug\Discoteca.csproj.GenerateResource.cache
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\obj\Debug\Discoteca.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\obj\Debug\Discoteca.exe
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\obj\Debug\Discoteca.pdb
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\obj\Debug\Discoteca.exe.config
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\bin\Debug\Dominio.dll
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\bin\Debug\Negocio.dll
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\bin\Debug\Dominio.pdb
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\bin\Debug\Negocio.pdb
+C:\Users\Ezequiel\OneDrive\Escritorio\CursoMaxiPrograma\Curso_nivel2_CSharp\EjercicioDiscotecaSolucion\Discoteca\obj\Debug\Discoteca.csproj.Up2Date
